@@ -1,2 +1,3 @@
 # SQL <br>
-www.patika.dev
+www.patika.dev <br>
+My profile: https://app.patika.dev/majin
