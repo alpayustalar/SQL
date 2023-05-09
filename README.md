@@ -1,6 +1,6 @@
 # SQL <br>
 www.patika.dev <br>
-My profile: [https://app.patika.dev/majin](https://academy.patika.dev/profile) <br> <br>
+My profile: [https://app.patika.dev/majin](https://academy.patika.dev/profile) <br> <br> <br>
 
 https://app.patika.dev/courses/sql <br>
 Konular: <br>
